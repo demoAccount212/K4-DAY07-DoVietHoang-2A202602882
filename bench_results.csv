@@ -1,0 +1,15 @@
+query_id,query,filter,rank,doc_id,chunk_id,score,is_gold,content_preview
+Q1,What is the return policy for buyers?,,1,everlane-privacy,everlane-privacy#68_111,0.289,0,The online advertising industry also provides websites from which you may opt out of receiving targe
+Q1,What is the return policy for buyers?,,2,everlane-privacy,everlane-privacy#5_48,0.257,0,"So, please make sure that you have read and understand our Terms of Service."
+Q1,What is the return policy for buyers?,,3,seller-warranty-policy,seller-warranty-policy#0_167,0.251,0,> Khối metadata phía trên là **template mẫu** cho K4-L3B — thay `source_url`/`retrieved_at`/`documen
+Q2,What are the conditions for a valid return?,,1,dongduc-doi-tra,dongduc-doi-tra#1_39,0.369,0,"Quý khách vui lòng trực tiếp kiểm tra kỹ hàng hoá ngay khi nhận hàng từ nhân viên giao hàng, nếu có "
+Q2,What are the conditions for a valid return?,,2,xtrend-doi-tra,xtrend-doi-tra#0_212,0.311,0,# Chính sách đổi trả hàng XTrend  Chính sách kiểm hàng - đổi trả hàng hóa - Công ty Cổ phần Phân phố
+Q2,What are the conditions for a valid return?,,3,everlane-privacy,everlane-privacy#18_61,0.303,0,"Information we collect may be associated with accounts and other devices. In addition, we may automa"
+Q3,How long does a refund take to process?,,1,everlane-privacy,everlane-privacy#43_86,0.386,0,"Operationally Necessary. This includes Technologies that allow you access to our Services, applicati"
+Q3,How long does a refund take to process?,,2,everlane-privacy,everlane-privacy#2_45,0.340,0,"CCPA Notice at Collection: At or before the time of collection, you may have a right to receive noti"
+Q3,How long does a refund take to process?,,3,everlane-privacy,everlane-privacy#102_145,0.327,0,"Notice of Financial Incentive. As described above in “How We Use Your Personal Information”, we may "
+Q4,What is the shipping policy for domestic orders?,,1,everlane-privacy,everlane-privacy#60_103,0.251,0,"International Data Transfers. All information processed by us may be transferred, processed, and sto"
+Q4,What is the shipping policy for domestic orders?,,2,qoatea-doi-tra,qoatea-doi-tra#5_163,0.227,0, 2.2. Hàng không bị lỗi: Khách hàng có thể đổi sản phẩm A sang sản phẩm B trong vòng 1 tháng kể từ n
+Q4,What is the shipping policy for domestic orders?,,3,shopee-co-inspection-program,shopee-co-inspection-program#9_192,0.222,0,"Đối với chương trình SHOPEE ĐỒNG KIỂM, bạn được kiểm tra hàng và trả hàng miễn phí vì bất kỳ lý do g"
+Q5,What is the seller warranty policy?,{'audience': 'seller'},1,seller-warranty-policy,seller-warranty-policy#0_167,-0.082,1,> Khối metadata phía trên là **template mẫu** cho K4-L3B — thay `source_url`/`retrieved_at`/`documen
+Q5,What is the seller warranty policy?,{'audience': 'seller'},2,seller-warranty-policy,seller-warranty-policy#1_168,-0.256,1,"Nhóm cần bổ sung mốc thời gian phản hồi, mức phạt, và quy trình khiếu nại từ nguồn chính thức trước "
